@@ -6,7 +6,6 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) {
         firstTask();
-
         Telephone telephone = new Telephone();
         telephone.add("Петров", 89031827378L);
         telephone.add("Петров", 89958998403L);
